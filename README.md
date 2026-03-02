@@ -17,7 +17,7 @@ The application is built using Object-Oriented Programming principles and Modern
 - Salary calculation system with bonuses
 - CSV report generation
 - Error handling and input validation
-- Implementation of Factory and Singleton design patterns
+
 
 ## Technologies Used
 
@@ -25,7 +25,7 @@ The application is built using Object-Oriented Programming principles and Modern
 - STL (vector, list, queue, etc.)
 - File I/O
 - OOP & SOLID principles
-- Design Patterns (Factory, Singleton)
+
 
 ## How to Run
 
